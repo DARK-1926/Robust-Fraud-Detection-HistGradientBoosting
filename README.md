@@ -114,7 +114,7 @@ if isFlaggedFraud:
 
 The following infographic displays the relative importance ranking of engineered features as determined by the HistGradientBoosting model:
 
-![Faculty Request: Feature Importance Ranking](https://ibb.co/Z1RG21pc)
+![Faculty Request: Feature Importance Ranking](https://ibb.co/Z1RG21pc)(https://postimg.cc/cgL7TzRz)
 
 **Key Observations:**
 - `is_merchant` emerges as the dominant predictive signal, validating the domain hypothesis that merchant accounts are inherently safe
